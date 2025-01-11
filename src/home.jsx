@@ -14,7 +14,7 @@ function onSubmit(data){
   return (
     <div className='bg-primary text-gre '>
     <div className='bg-primary  flex md:flex-row flex-col md:pt-32 pt-6 font-serif'>
-               <div className='ml-26 md:mt-32 mt-12 '><div className='text-3xl text-[10px]   md:pl-14 pl-2  '>Welcome to CAR RENTAL Your Trusted Car Rental Partner</div><br></br><div className='text-xl md:pl-14 pl-4 flex flex-row '>Explore the Freedom of the Open Road</div><br></br></div>
+               <div className='ml-26 md:mt-32 mt-12 '><div className='text-3xl    md:pl-14 pl-2  '>Welcome to CAR RENTAL Your Trusted Car Rental Partner</div><br></br><div className='text-xl md:pl-14 pl-4 flex flex-row '>Explore the Freedom of the Open Road</div><br></br></div>
 
         <div className='md:mt-32 mt-12'>  <img  className= "md:w-[900px] w-96"src={Images.homeimage} alt="iosj  "  /></div>
     </div>
