@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/CAR_RENTAL/static/css/main.688ab06b.css",
+    "main.js": "/CAR_RENTAL/static/js/main.025d6d98.js",
+    "static/js/488.9ac5155c.chunk.js": "/CAR_RENTAL/static/js/488.9ac5155c.chunk.js",
+    "static/media/R.png": "/CAR_RENTAL/static/media/R.ddc6007d7bf18395bf84.png",
+    "static/media/normalcar3.png": "/CAR_RENTAL/static/media/normalcar3.bfd6069882d52aea8fe2.png",
+    "static/media/normalcar4.png": "/CAR_RENTAL/static/media/normalcar4.bfd6069882d52aea8fe2.png",
+    "static/media/normalcar1.png": "/CAR_RENTAL/static/media/normalcar1.2ed764678ace68b9efc0.png",
+    "static/media/normalcar2.png": "/CAR_RENTAL/static/media/normalcar2.44ab3e4b49ff3f8e5fff.png",
+    "static/media/SUV.png": "/CAR_RENTAL/static/media/SUV.7ecc9930780baf1cdd16.png",
+    "static/media/car.png": "/CAR_RENTAL/static/media/car.c49f9e8c2f60a9df9bf9.png",
+    "static/media/luxary.png": "/CAR_RENTAL/static/media/luxary.7373d8a5430150d46f42.png",
+    "service-worker.js": "/CAR_RENTAL/service-worker.js",
+    "static/media/fraction.cjs": "/CAR_RENTAL/static/media/fraction.7992481f3d8339b77604.cjs",
+    "static/media/seater.svg": "/CAR_RENTAL/static/media/seater.c7016f698208335bc0fd619dd0c4811f.svg",
+    "index.html": "/CAR_RENTAL/index.html",
+    "static/media/index.cjs": "/CAR_RENTAL/static/media/index.f6d03137e8c9dd0de04c.cjs",
+    "main.688ab06b.css.map": "/CAR_RENTAL/static/css/main.688ab06b.css.map",
+    "main.025d6d98.js.map": "/CAR_RENTAL/static/js/main.025d6d98.js.map",
+    "488.9ac5155c.chunk.js.map": "/CAR_RENTAL/static/js/488.9ac5155c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.688ab06b.css",
+    "static/js/main.025d6d98.js"
+  ]
+}
