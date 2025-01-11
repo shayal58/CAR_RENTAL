@@ -74,11 +74,9 @@ npm install
 ```
 
 ## Usage
-To run the application locally, use the following command:
+To see the website:
 
-```bash
-npm start
-```
+https://shayal58.github.io/CAR_RENTAL
 
 This will start the development server and you can view the application in your browser at `http://localhost:3000`.
 
